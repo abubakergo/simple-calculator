@@ -1,3 +1,5 @@
+![GitHub Logo](/calculator-flat.png)
+
 # آلة حاسبة بسيطة
 
 ## المرحلة الاولى
